@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently creating projects using **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dvloper-Ibrahim](https://github.com/Dvloper-Ibrahim)
+- 👨‍💻 All of my projects are available at [https://github.com/Dvloper-Ibrahim?tab=repositories](https://github.com/Dvloper-Ibrahim?tab=repositories)
 
-- 💬 Ask me about **JavaScript and Node.js**
+- 💬 Ask me about **JavaScript and React.js**
 
 - 📫 How to reach me **ibrahimahmed90000@gmail.com**
 
