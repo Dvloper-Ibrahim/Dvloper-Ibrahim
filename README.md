@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently advancing my skills in **React.js**, **Angular**, **.NET**
+- 🌱 I’m currently advancing my skills in **React.js**, **Angular**,and **.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dvloper-Ibrahim?tab=repositories](https://github.com/Dvloper-Ibrahim?tab=repositories)
 
